@@ -1,8 +1,8 @@
 <?php
 
 $servername = "localhost";
-$username = "root";
-$password = "";
+$username = "josel";
+$password = "paxxword";
 $dbname = "dbform";
 $tableName = "tableform";
 
